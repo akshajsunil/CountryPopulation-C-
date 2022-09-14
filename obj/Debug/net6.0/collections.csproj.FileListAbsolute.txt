@@ -1,0 +1,15 @@
+E:\New Learning\collections\bin\Debug\net6.0\collections.exe
+E:\New Learning\collections\bin\Debug\net6.0\collections.deps.json
+E:\New Learning\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+E:\New Learning\collections\bin\Debug\net6.0\collections.dll
+E:\New Learning\collections\bin\Debug\net6.0\collections.pdb
+E:\New Learning\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+E:\New Learning\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Learning\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+E:\New Learning\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+E:\New Learning\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+E:\New Learning\collections\obj\Debug\net6.0\collections.dll
+E:\New Learning\collections\obj\Debug\net6.0\refint\collections.dll
+E:\New Learning\collections\obj\Debug\net6.0\collections.pdb
+E:\New Learning\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+E:\New Learning\collections\obj\Debug\net6.0\ref\collections.dll
